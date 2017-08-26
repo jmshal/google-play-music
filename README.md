@@ -1,6 +1,6 @@
 # Google Play Music client for Node.js
 
-Originally written by Jamon Terrell <git@jamonterrell.com>
+Originally written by Jamon Terrell <git@jamonterrell.com>  
 Maintained by Jacob Marshall <git@jacobmarshall.co>
 
 ## License
